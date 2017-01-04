@@ -1,0 +1,30 @@
+{
+  "author": "Tzvi Remez",
+  "name": "asterisk-ami-socket.io",
+  "description": "An asterisk ami socket.io connector",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tremez/asterisk-ami-socket.io.git"
+  },
+  "main": "./index",
+  "scripts": {
+  },
+  "engine": {
+    "node": "*"
+  },
+  "dependencies": {
+    "asterisk-ami":"*",
+    "socket.io":"*"
+
+  },
+  "keywords": [
+    "asterisk",
+    "ami",
+    "voip",
+    "socket.io"
+  ],
+  "engines": {
+    "node": "*"
+  }
+}
